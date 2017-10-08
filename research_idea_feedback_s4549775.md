@@ -54,6 +54,11 @@ The last paragraph is really good. I think you should rewrite the first three to
 #. Provide a reference to the actual resource.
 
 # Method
+It is not clear to me what method you want to use. You want to compare the functions you think of to a current implementation of AES. How would you go about doing that?
+
+Security is a quantitative measure, so how do you want to quantify it? You have two different versions of the AES algorithm $A_1, A_2$. Can they be directly compared? If so, then how? Or if you have some input $i$, how can $A_1(i)$ and $A_2(i)$ be compared? Is there some measurable property of $A_k(i)$ that makes it secure?
+
+You mention that you may want to ask some security researchers to find leaks. So do you plan on conducting a survey?
 
 # General
 All in all you need to be more specific. In several cases you say things like
