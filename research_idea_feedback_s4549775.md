@@ -31,6 +31,28 @@ Apart from that, I agree with the importance of trying to make one of the most u
 
 # Theoretical Background
 
+> Het meest belangrijke concept voor dit werk is natuurlijk hoe AES in elkaar zit, hoe het werkt en wat de mogelijke problemen zijn. Hier is veel informatie over te vinden, bijvoorbeeld bij een Dozent van de RU, Joan Daemen, die AES mee heeft bedacht.
+
+If it is important, and there is a lot of information about it, then why don't you tell us? Alternatively you could reference a paper, book, or something by Joan Daemen.
+
+> Bovendien is AES het meest gebruikte algoritme in het internet. Daarom is er ook al veel onderzoek na gedaan [...]
+
+So then tell us about it.
+
+This part definitely needs the most work. You tell the reader that something is important, and that there is lots of available research on the topic, but then you do not provide any information. Also you need more literature.
+
+The last paragraph is really good. I think you should rewrite the first three to be more like the last one:
+
+#. Mention the topic.
+
+	> beveiliging van AES
+
+#. What are the main statements of the research?
+
+	> problemen met AES gevonden, die tot nu toe nog niet gevaarlijk zijn, omdat we nog te weinig rekenkracht hebben
+
+#. Provide a reference to the actual resource.
+
 # Method
 
 # General
