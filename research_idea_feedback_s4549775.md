@@ -43,15 +43,15 @@ This part definitely needs the most work. You tell the reader that something is 
 
 The last paragraph is really good. I think you should rewrite the first three to be more like the last one:
 
-#. Mention the topic.
+1. Mention the topic.
 
 	> beveiliging van AES
 
-#. What are the main statements of the research?
+2. What are the main statements of the research?
 
 	> problemen met AES gevonden, die tot nu toe nog niet gevaarlijk zijn, omdat we nog te weinig rekenkracht hebben
 
-#. Provide a reference to the actual resource.
+3. Provide a reference to the actual resource.
 
 # Method
 It is not clear to me what method you want to use. You want to compare the functions you think of to a current implementation of AES. How would you go about doing that?
